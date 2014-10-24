@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1412960972 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/OrgaTestground/main.cpp
+	<iostream>
+	<fstream>
+	<list>
+
